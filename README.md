@@ -1,1 +1,1 @@
-The final term paper is int he uploaded .pdf file. Required data is found in data.xlsx. Code for SVAR estimation found in codekeep8.m. Code for the FFR, CBJ rate, Inflation (for Jordan) found in ffr_cbj_inflation_plotd2.m.
+The final term paper is in the uploaded .pdf file. Required data is found in data.xlsx. Code for SVAR estimation found in codekeep8.m. Code for the FFR, CBJ rate, Inflation (for Jordan) found in ffr_cbj_inflation_plotd2.m.
